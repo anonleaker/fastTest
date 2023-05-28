@@ -15,6 +15,7 @@ O lema da startup enxuta.
 Qual é o ciclo iterativo da startup enxuta?
 
 Construir, medir e aprender… repetidas vezes.
+
 --------------------------------------------------
 
 CAP 2
@@ -28,6 +29,7 @@ Protótipo é a manifestação da ideia em um formato que comunica essa ideia pa
 Na hora de prototipar, podemos escolher a fidelidade da prototipação. O que é um protótipo de baixa fidelidade?
 
 O protótipo de baixa fidelidade é a forma mais rápida e barata de se construir um protótipo. Ele geralmente é feito à mão, como o protótipo de papel, ou com algumas ferramentas, como, por exemplo: storyboards, wireframes, sketches e protótipo de componentes.
+
 --------------------------------------------------
 
 CAP 3
