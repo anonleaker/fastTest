@@ -52,6 +52,7 @@ Name (label)
 
 MQTT
 --------------------------------------------------
+CAP4
 
 Em relação à sincronização de processos distribuídos, assinale a alternativa correta:
 
