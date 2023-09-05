@@ -162,3 +162,50 @@ Kubernetes, Docker, cluster
 
 --------------------------------------------------
 CAP9
+
+Dentre os diferentes tipos de saídas, quais não podem ser considerados do subgrupo "Custos Variáveis"?
+
+Vendas de Serviços e Comissionamento.
+
+---
+
+Qual é o nome do processo pelo qual as empresas passam quando tentam transformar seus modelos tradicionais em modelos escaláveis?
+
+Transformação digital.
+
+---
+
+Quais são as três principais categorias que precisamos avaliar para entender se o nosso modelo de negócio pode ou não gerar escala?
+
+Configurações do negócio, entradas e saídas.
+
+---
+
+Por quanto tempo devemos projetar nossas questões financeiras na hora de atribuir um bom planejamento na Configuração do Negócio?
+
+Cinco anos.
+
+---
+
+Qual é a principal diferença entre modelo tradicional e modelo escalável de negócio?
+
+No modelo tradicional, os custos acompanham as receitas, enquanto no modelo escalável a receita cresce muito mais do que os custos.
+
+---
+
+Dentre os diferentes tipos de saídas, quais podem ser consideradas do subgrupo "Investimentos Iniciais"?
+
+Abertura de Empresa, Contabilidade e Desenvolvimento do App/Site.
+                
+---
+
+Dentre os itens a seguir, quais são considerados "Saídas" no modelo de negócio?
+
+Investimentos Iniciais e Despesas Variáveis.
+
+---
+
+Dentre os itens a seguir, quais são considerados "Entradas" no modelo de negócio?
+
+Venda de Produtos, Venda de Serviços e Comissionamento.
+--------------------------------------------------
