@@ -32,3 +32,18 @@ Dispositivos inteligentes, transdutores, grandeza mecânica
 Esses sensores não necessitam de qualquer conversão, nem de condicionamento de sinal, pois tudo isso já está embutido no próprio silício do sensor, simplificando a quantidade de componentes necessários e reduzindo o tamanho total do circuito. Estamos falando de:  
 
 Sensores digitais puros
+
+--------------------------------------------------
+CAP3
+
+Essa ferramenta foi desenvolvida originalmente pela IBM e, hoje em dia, é mantida pela JS Foundation. Sua ampla utilização em aplicações de IoT é devida à facilidade e acessibilidade da ferramenta, que utiliza uma “linguagem” de programação visual, cujas aplicações são programadas em formas de fluxo de dados e funciona tanto local como na nuvem e até mesmo em dispositivos como a Raspberry Pi, BeagleBone e em dispositivos com Android. Estamos falando de:
+
+---
+
+Na aba de debug, no Node-RED, estarão todas as mensagens que os nós de debug irão exibir que receberam durante o fluxo. Com ela aberta, pressione mais algumas vezes no botão do inject e veja o time stamp sendo impresso, semelhante ao monitor serial do Arduino, para modificar o nome do nó e organizar o fluxo, modificamos a característica de:
+
+---
+
+"Este é o protocolo mais utilizado no mundo da Internet das Coisas, foi inventado em 1999 pensando na necessidade de uma comunicação que consumisse pouca bateria e com o mínimo de banda possível para conectar oleodutos utilizando satélites". Estamos falando de:
+
+
