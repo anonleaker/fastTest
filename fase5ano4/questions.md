@@ -13,7 +13,7 @@ WPAN: Wireless Personal Area Network
 
 Assinale a alternativa que representa corretamente as três principais camadas de uma arquitetura IoT:
 
-Camada de aplicação, camada de plataforma e camada de infraestrutura
+Camada de Aplicação, Camada de Rede e Camada de Percepção
 
 --------------------------------------------------
 CAP 2
