@@ -38,12 +38,17 @@ CAP3
 
 Essa ferramenta foi desenvolvida originalmente pela IBM e, hoje em dia, é mantida pela JS Foundation. Sua ampla utilização em aplicações de IoT é devida à facilidade e acessibilidade da ferramenta, que utiliza uma “linguagem” de programação visual, cujas aplicações são programadas em formas de fluxo de dados e funciona tanto local como na nuvem e até mesmo em dispositivos como a Raspberry Pi, BeagleBone e em dispositivos com Android. Estamos falando de:
 
+Node-RED
+
 ---
 
 Na aba de debug, no Node-RED, estarão todas as mensagens que os nós de debug irão exibir que receberam durante o fluxo. Com ela aberta, pressione mais algumas vezes no botão do inject e veja o time stamp sendo impresso, semelhante ao monitor serial do Arduino, para modificar o nome do nó e organizar o fluxo, modificamos a característica de:
+
+Name (label)
 
 ---
 
 "Este é o protocolo mais utilizado no mundo da Internet das Coisas, foi inventado em 1999 pensando na necessidade de uma comunicação que consumisse pouca bateria e com o mínimo de banda possível para conectar oleodutos utilizando satélites". Estamos falando de:
 
+MQTT
 
