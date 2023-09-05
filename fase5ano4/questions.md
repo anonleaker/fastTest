@@ -108,3 +108,57 @@ Em um sistema distribuído, a memória compartilhada distribuída é:
 Uma combinação lógica de memórias físicas nos computadores que constituem o sistema distribuído.
 --------------------------------------------------
 CAP6
+
+Em relação aos serviços Web, assinale a alternativa correta:
+
+Os serviços Web são cada vez mais importantes nos sistemas distribuídos: eles suportam atividade conjunta na Internet global, incluindo a área fundamental da integração de empresa para empresa (business-to-business, B2B).
+
+---
+A arquitetura orientada a serviços (SOA, Service-Oriented Architecture) é:
+
+Um conjunto de princípios de projeto.
+
+---
+
+Assinale a alternativa que completa corretamente a frase a seguir: "A computação em grade também pode ser vista como uma forma de computação em nuvem. Na maioria das situações, os termos são sinônimos, mas a computação em _____________, geralmente, pode ser vista como a precursora do paradigma mais geral da computação em _____________, com tendência para o suporte para aplicativos _____________.
+
+grade / nuvem / científicos
+--------------------------------------------------
+CAP7
+
+Software que roda na máquina em que o Docker está instalado; o usuário não interage diretamente com esse software". Estamos falando de:
+
+Docker Daemon
+
+---
+
+Usado para criar imagens e contêineres no Docker". Estamos falando de:
+
+Docker Engine
+
+---
+
+É a melhor opção quando se tem uma grande variedade de instâncias de SOs para gerenciar ou quando você precisa executar vários aplicativos em servidores diferentes". Estamos falando de:
+
+Virtual Machine (VM)
+--------------------------------------------------
+CAP8
+
+Como uma infraestrutura de nuvem, é sustentado pelos pilares: processamento (compute), rede (networking) e armazenamento (storage). Este SO faz uso de APIs com mecanismos comuns de autenticação para realizar tarefas de gerenciamento e provisionamento. "Estamos falando de:
+
+OpenStack
+
+---
+
+Desempenha o papel de sistema operacional no nível de contêineres com a responsabilidade de executar tarefas de orquestração de contêineres”. Estamos falando de:
+
+Kubernetes
+
+---
+
+Assinale a alternativa que completa corretamente a frase a seguir: "O papel do _____________ é utilizar o _____________ para criar contêineres nos nós do _____________ e tem como responsabilidades controlar, gerenciar e monitorar o estado dos contêineres Docker ao longo do cluster.
+
+Kubernetes, Docker, cluster
+
+--------------------------------------------------
+CAP9
