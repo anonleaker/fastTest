@@ -82,4 +82,29 @@ Algoritmo de Berkeley
 Em relação à sincronização de processos distribuídos, assinale a alternativa correta:
 
 No método de Cristian há necessidade de um relógio central para garantir o sincronismo.
-              
+--------------------------------------------------
+CAP5
+
+Assinale a alternativa que completa corretamente a frase a seguir: "Um sistema de memória compartilhada distribuída (DSM – Distributed Shared Memory) implementa, _____________, um sistema de memória _____________ sobre um sistema de memória _____________. Além de apresentar uma boa escalabilidade, a DSM torna transparente ao programador o mecanismo de comunicação remota, preservando a fácil programação e a portabilidade típica de um sistema de memória compartilhada.".
+
+logicamente / compartilhada / distribuída
+
+---
+
+Assinale a alternativa correta:
+
+Memória compartilhada distribuída é uma abstração usada para o compartilhamento de dados entre computadores que não compartilham memória física.
+
+---
+
+Assinale a alternativa que contém um exemplo de memória compartilhada distribuída (DSM – Distributed Shared Memory):
+
+Um arquivo mapeado em memória, compartilhado por diversos processos distribuídos, é um exemplo de DSM.
+
+---
+
+Em um sistema distribuído, a memória compartilhada distribuída é:
+
+Uma combinação lógica de memórias físicas nos computadores que constituem o sistema distribuído.
+--------------------------------------------------
+CAP6
