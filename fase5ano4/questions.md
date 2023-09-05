@@ -51,4 +51,34 @@ Name (label)
 "Este é o protocolo mais utilizado no mundo da Internet das Coisas, foi inventado em 1999 pensando na necessidade de uma comunicação que consumisse pouca bateria e com o mínimo de banda possível para conectar oleodutos utilizando satélites". Estamos falando de:
 
 MQTT
+--------------------------------------------------
 
+Em relação à sincronização de processos distribuídos, assinale a alternativa correta:
+
+Em um sistema distribuído, frequentemente, precisamos saber qual é o estado do processo A, quando o processo B está em determinado ponto de sua execução, mas não podemos contar apenas com os relógios físicos individuais de cada máquina para saber o que é verdade ao mesmo tempo.
+              
+
+---
+
+Um cliente quer sincronizar seu relógio com um servidor de tempo (método de Christian). Ele grava os tempos de viagem de ida e volta das mensagens e os carimbos de tempo retornados pelo servidor. Qual destas mensagens ele deve usar para configurar seu relógio? <Número da mensagem; tempo de viagem de ida e volta (ms); carimbo de tempo (hh:mm:ss.ms)>: <Mensagem #1; 22; 10:54:23.674>, <Mensagem #2; 24; 10:54:25.450>, <Mensagem #3; 20; 10:54:28.342>, <Mensagem #4; 30; 10:54:29.670> e <Mensagem #5; 26; 10:54:31.230>
+
+Mensagem #3
+
+---
+
+A afirmação "Embora exista um sincronismo que atende a maioria das aplicações, não há garantia nem da compatibilidade dos relógios individuais de cada máquina com o relógio físico, nem da compatibilidade entre os diferentes relógios de cada máquina." refere-se à qual algoritmo/método de sincronização:
+
+Algoritmo de Lamport
+
+---
+
+A afirmação "Normalmente, desprezam-se os horários muito afastados da média, muito atrasados ou muito adiantados." refere-se a qual algoritmo/método de sincronização:
+
+Algoritmo de Berkeley
+
+---
+
+Em relação à sincronização de processos distribuídos, assinale a alternativa correta:
+
+No método de Cristian há necessidade de um relógio central para garantir o sincronismo.
+              
