@@ -145,4 +145,20 @@ Assinale a alternativa que completa corretamente a frase abaixo:<br><br>
 
 --------------------------------------------------
 
+CAP 8 
+
+Essa é mais conhecida, mas existem outras ferramentas de web analytics no mercado. Mas o fato é que por meio dela você pode saber quais conteúdos são mais acessados em seu site ou blog, qual é a origem dos seus acessos (SEO, social, referral etc.), quanto tempo seus usuários permanecem em seu site ou blog, quantas páginas ele visita, taxa de rejeição de cada landing e assim por diante. Quanto mais dados estiverem sendo trackeados pelo analytics, mais profunda pode ser sua análise para entender comportamentos e encontrar oportunidades de venda. Estamos falando de qual ferramenta?
+
+
+
+---
+
+"É um conjunto de técnicas de atração que tem como objetivo fazer com que os clientes busquem pela marca por motivos secundários e não diretamente para a compra de seus produtos, é uma metodologia de marketing testada on-line na qual muitas empresas dependem para atrair seus clientes ideais". Estamos falando de:
+
+
+
+---
+
+Os conteúdos não devem abordar somente a sua empresa, pois o objetivo, neste momento, não é “vender o peixe”, mas atrair atenção por meio de conceitos e informações para embasar e dar consistência. Os textos devem ser fáceis de entender, com a linguagem ideal próxima ao seu público. A cada novo texto, lembre-se do Google: pesquise as palavras-chave (Google Trends, Keyword Planner) e utilize técnicas de SEO para indexação da sua página. Estamos falando de:
+
 
