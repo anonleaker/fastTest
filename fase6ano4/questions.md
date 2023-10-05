@@ -67,3 +67,60 @@ Assinale a alternativa que completa corretamente a frase abaixo:
 Responsável na organização de avaliar se os processos e procedimentos estão sendo cumpridos, se os sistemas de informação estão sendo bem alimentados, se os princípios organizacionais estão sendo seguidos, entre outros. Estamos falando sobre quê?
 
 --------------------------------------------------
+
+CAP4
+
+Qual é a faixa adequada de participantes que se deve envolver no seu teste de usuário?
+
+
+
+---
+
+A ABNT ISO 9241-11 é uma importante documentação sobre Usabilidade. E quando ela trata de “eficiência”, “eficácia” e “satisfação”, ela está tratando de:
+
+
+
+Sobre a Usabilidade, aponte a melhor alternativa que a norma ABNT ISO 9241-11 aborda como grau de facilidade:
+
+
+
+--------------------------------------------------
+
+CAP 5
+
+Entre as tendências para o marketing digital deste ano, qual das opções não se aplica?
+
+
+
+---
+Qual das alternativas não é um exemplo de conteúdo interativo?
+
+
+
+---
+O que podemos desconsiderar ao pensar no social commerce para a empresa?
+
+
+
+--------------------------------------------------
+
+CAP 6
+
+Assinale a alternativa que completa corretamente a frase abaixo:<br><br>
+"Os ___________ estão bem no centro desse evento de ruptura, e é essencial para a sobrevivência de um _________ fazer com que seu site tenha uma boa classificação nos mecanismos de busca quando as pessoas estiverem procurando pelo ____________, o produto ou o recurso por ele oferecido. Como a maioria dos caminhos que leva ao sucesso, conseguir esse valioso lugar no _____________ não é uma questão simples".
+
+
+
+---
+
+"é a chave entre o sucesso e o fracasso do seu site”. Ou seja, se você tem um site ou trabalha na área e quer aumentar a visibilidade orgânica (não paga), gerar mais visitas (tráfego) e melhorar o posicionamento (ranking da primeira página de pesquisa) em motores de busca, como Google, Bing e Yahoo ..." Estamos falando de:
+
+
+
+---
+
+O algoritmo de pesquisa do Google é usado como um termo abrangente para se referir a todos os algoritmos individuais, sistemas de aprendizado de máquina e tecnologias que o Google usa para classificar sites. Para fornecer os melhores resultados, eles consideram vários fatores, entre eles, o mecanismo de pesquisa tenta escolher os melhores resultados em termos de qualidade de conteúdo. Qual é o assunto do texto?
+
+
+
+--------------------------------------------------
