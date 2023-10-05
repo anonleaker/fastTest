@@ -124,3 +124,25 @@ O algoritmo de pesquisa do Google é usado como um termo abrangente para se refe
 
 
 --------------------------------------------------
+
+CAP 7
+
+"Um conjunto de métricas que mede os principais aspectos da experiência do usuário, como: usabilidade, tempo de carregamento, estabilidade do conteúdo, durante o carregamento e interatividade". Estamos falando de qual assunto?
+
+
+
+---
+
+Assinale a alternativa que completa corretamente a frase abaixo:<br><br>
+"Alguns _____________ usam o conteúdo obtido (“copiado”) de outros sites com melhor reputação sob a justificativa de que aumentar o volume de páginas no site é uma boa estratégia a longo prazo, independentemente da ______________ ou ______________ desse conteúdo. Conteúdos puramente copiados, mesmo de fontes qualificadas, podem não fornecer valor adicionado a seus usuários sem serviços ou conteúdo adicional fornecidos por seu site. Isso também pode constituir ___________ de direitos autorais em alguns casos. Vale a pena criar conteúdo original que diferencie seu site. Isso faz com que seus visitantes retornem e fornece _____________ mais úteis para usuários que realizam pesquisas no Google".
+
+
+
+---
+
+Assinale a alternativa que completa corretamente a frase abaixo:<br><br>
+"Tornar ______________ ao usuário requer um conhecimento profundo das necessidades do seu público, ou seja, você precisa tornar seu site bem _____________ ao mesmo tempo - duas características que não são facilmente reconciliadas. Você usa as ferramentas necessárias para manter seu ___________ como uma máquina bem lubrificada, e todo esse esforço compensa quando seus usuários se tornam regulares".
+
+--------------------------------------------------
+
+
