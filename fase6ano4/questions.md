@@ -162,3 +162,24 @@ Essa é mais conhecida, mas existem outras ferramentas de web analytics no merca
 Os conteúdos não devem abordar somente a sua empresa, pois o objetivo, neste momento, não é “vender o peixe”, mas atrair atenção por meio de conceitos e informações para embasar e dar consistência. Os textos devem ser fáceis de entender, com a linguagem ideal próxima ao seu público. A cada novo texto, lembre-se do Google: pesquise as palavras-chave (Google Trends, Keyword Planner) e utilize técnicas de SEO para indexação da sua página. Estamos falando de:
 
 
+CAP 9 
+
+Sobre a evolução da proporção de brasileiros que já fizeram pagamento por aproximação, marque a alternativa correta.
+
+
+
+---
+
+Qual das alternativas indica o papel dos veículos de notícia, com os novos comportamentos adotados pelos clientes, no celular?
+
+
+---
+
+Entre as alternativas a seguir, qual delas aponta a razão principal para o aumento dos minutos gastos no mobile?
+
+
+
+---
+Assinale a alternativa que indica a forma correta de comunicação e atendimento ao cliente, levando em consideração o comportamento mobile.
+
+--------------------------------------------------
