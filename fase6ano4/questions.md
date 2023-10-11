@@ -95,17 +95,17 @@ CAP 5
 
 Entre as tendências para o marketing digital deste ano, qual das opções não se aplica?
 
-
+Experiências presenciais.
 
 ---
 Qual das alternativas não é um exemplo de conteúdo interativo?
 
-
+Divulgação de relatório
 
 ---
 O que podemos desconsiderar ao pensar no social commerce para a empresa?
 
-
+O número de visualização das publicações.
 
 --------------------------------------------------
 
