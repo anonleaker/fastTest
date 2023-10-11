@@ -76,17 +76,18 @@ CAP4
 
 Qual é a faixa adequada de participantes que se deve envolver no seu teste de usuário?
 
-
+De 3 a 10
 
 ---
 
 A ABNT ISO 9241-11 é uma importante documentação sobre Usabilidade. E quando ela trata de “eficiência”, “eficácia” e “satisfação”, ela está tratando de:
 
+Medidas de usabilidade
 
-
+---
 Sobre a Usabilidade, aponte a melhor alternativa que a norma ABNT ISO 9241-11 aborda como grau de facilidade:
 
-
+Todas as alternativas.
 
 --------------------------------------------------
 
