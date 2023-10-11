@@ -2,29 +2,31 @@ CAP 1
 
 A Norma ISO 38500 é aplicável a todas as Organizações: públicas, privadas, governamentais. Por que essa norma é fundamental?
 
-
+Porque avalia e direciona a utilização de recursos de TI para dar suporte a essas organizações, monitorando seu desempenho em relação ao cumprimento das metas estabelecidas.
 
 ---
 
 Qual é a principal função dos indicadores de resultados e de desempenho?
 
-
+Medir o desempenho da Gestão Executiva da empresa.
 
 ---
 
 A oferta de produtos e serviços realizada pela área de TI deve estar de acordo com as necessidades da organização. Quais são os quesitos estabelecidos pela norma para que isso aconteça?
 
-
+Estabelecer e respeitar os níveis de serviços ofertados pela organização. Cumprir os aspectos de desempenho e qualidade para atender aos requisitos definidos.
 
 ---
 
 A implantação da ISO 38500 pode ser resumida segundo quais pilares?
 
-
+Avaliar, Dirigir e Monitorar.
 
 ---
 
 A implantação da ISO 38500 pode ser feita em conjunto com o COBIT?
+
+Sim. Os dois modelos são complementares e indicados para aplicações em organizações.
 
 --------------------------------------------------
 
