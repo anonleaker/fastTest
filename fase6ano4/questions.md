@@ -114,19 +114,19 @@ CAP 6
 Assinale a alternativa que completa corretamente a frase abaixo:<br><br>
 "Os ___________ estão bem no centro desse evento de ruptura, e é essencial para a sobrevivência de um _________ fazer com que seu site tenha uma boa classificação nos mecanismos de busca quando as pessoas estiverem procurando pelo ____________, o produto ou o recurso por ele oferecido. Como a maioria dos caminhos que leva ao sucesso, conseguir esse valioso lugar no _____________ não é uma questão simples".
 
-
+mecanismos de busca – negócio – serviço – resultado das pesquisas
 
 ---
 
 "é a chave entre o sucesso e o fracasso do seu site”. Ou seja, se você tem um site ou trabalha na área e quer aumentar a visibilidade orgânica (não paga), gerar mais visitas (tráfego) e melhorar o posicionamento (ranking da primeira página de pesquisa) em motores de busca, como Google, Bing e Yahoo ..." Estamos falando de:
 
-
+Search Engine Optimization (SEO)
 
 ---
 
 O algoritmo de pesquisa do Google é usado como um termo abrangente para se referir a todos os algoritmos individuais, sistemas de aprendizado de máquina e tecnologias que o Google usa para classificar sites. Para fornecer os melhores resultados, eles consideram vários fatores, entre eles, o mecanismo de pesquisa tenta escolher os melhores resultados em termos de qualidade de conteúdo. Qual é o assunto do texto?
 
-
+Qualidade de conteúdo.
 
 --------------------------------------------------
 
@@ -148,43 +148,51 @@ Assinale a alternativa que completa corretamente a frase abaixo:<br><br>
 Assinale a alternativa que completa corretamente a frase abaixo:<br><br>
 "Tornar ______________ ao usuário requer um conhecimento profundo das necessidades do seu público, ou seja, você precisa tornar seu site bem _____________ ao mesmo tempo - duas características que não são facilmente reconciliadas. Você usa as ferramentas necessárias para manter seu ___________ como uma máquina bem lubrificada, e todo esse esforço compensa quando seus usuários se tornam regulares".
 
+
+
 --------------------------------------------------
 
 CAP 8 
 
 Essa é mais conhecida, mas existem outras ferramentas de web analytics no mercado. Mas o fato é que por meio dela você pode saber quais conteúdos são mais acessados em seu site ou blog, qual é a origem dos seus acessos (SEO, social, referral etc.), quanto tempo seus usuários permanecem em seu site ou blog, quantas páginas ele visita, taxa de rejeição de cada landing e assim por diante. Quanto mais dados estiverem sendo trackeados pelo analytics, mais profunda pode ser sua análise para entender comportamentos e encontrar oportunidades de venda. Estamos falando de qual ferramenta?
 
-
+Google Analytics
 
 ---
 
 "É um conjunto de técnicas de atração que tem como objetivo fazer com que os clientes busquem pela marca por motivos secundários e não diretamente para a compra de seus produtos, é uma metodologia de marketing testada on-line na qual muitas empresas dependem para atrair seus clientes ideais". Estamos falando de:
 
-
+Inbound Marketing
 
 ---
 
 Os conteúdos não devem abordar somente a sua empresa, pois o objetivo, neste momento, não é “vender o peixe”, mas atrair atenção por meio de conceitos e informações para embasar e dar consistência. Os textos devem ser fáceis de entender, com a linguagem ideal próxima ao seu público. A cada novo texto, lembre-se do Google: pesquise as palavras-chave (Google Trends, Keyword Planner) e utilize técnicas de SEO para indexação da sua página. Estamos falando de:
 
+Marketing de conteúdo
+
+--------------------------------------------------
 
 CAP 9 
 
 Sobre a evolução da proporção de brasileiros que já fizeram pagamento por aproximação, marque a alternativa correta.
 
-
+É um método benéfico para os usuários, que tem sido resultado das inovações das instituições financeiras. Possui melhorias que já têm sido adotadas, mas não substitui por completo os outros meios de pagamento.
 
 ---
 
 Qual das alternativas indica o papel dos veículos de notícia, com os novos comportamentos adotados pelos clientes, no celular?
 
+Possuem audiência orgânica relevante, optam pela venda de assinatura de conteúdo e seguem importantes com as adaptações feitas ao universo mobile.
 
 ---
 
 Entre as alternativas a seguir, qual delas aponta a razão principal para o aumento dos minutos gastos no mobile?
 
-
+Redes sociais.
 
 ---
 Assinale a alternativa que indica a forma correta de comunicação e atendimento ao cliente, levando em consideração o comportamento mobile.
+
+Priorizar o relacionamento saudável e cobrir todas as demandas, respeitando as preferências.
 
 --------------------------------------------------
