@@ -34,13 +34,13 @@ CAP 2
 
 Para garantir a segurança de dados em informações de contratos, estratégias da organização, muitas empresas criam políticas e níveis de acesso. Como esse conceito é conhecido?
 
-
+Conteinerização.
 
 ---
 
 Esse termo classifica empresas, organizações, escolas e ambientes que mantêm a cultura pela qual os participantes (funcionários, sócios, estudantes etc.) levam para o ambiente seu próprio equipamento e usufruem dele para o serviço que estão realizando de maneira personalizada. Do qual termo estamos falando?
 
-
+BYOD – Bring Your Own Device.
 
 ---
 
@@ -55,18 +55,20 @@ CAP 3
 
 A propriedade de salvaguarda da exatidão e da totalidade do conjunto de ativos. Estamos falando sobre quê?
 
-
+Integridade
 
 ---
 
 Assinale a alternativa que completa corretamente a frase abaixo:
 “ O __________ deve dispor de compreensão suficiente dos recursos de Tecnologia da Informação e dos sistemas de processamentos existentes a fim de avaliá-los e ___________ adequadamente seu trabalho. O uso de ____________ que demandem o emprego de recursos de TI requer que o auditor os domine completamente, de forma a implementar os próprios _____________ ou, se for o caso, orientar, supervisionar e revisar o trabalho de especialistas na área.”
 
-
+Auditor – planejar – técnicas de auditoria – procedimentos
 
 ---
 
 Responsável na organização de avaliar se os processos e procedimentos estão sendo cumpridos, se os sistemas de informação estão sendo bem alimentados, se os princípios organizacionais estão sendo seguidos, entre outros. Estamos falando sobre quê?
+
+Auditoria
 
 --------------------------------------------------
 
